@@ -53,6 +53,7 @@
 		1B221FA529BF6F4400B7F51C /* ServiceError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceError.swift; sourceTree = "<group>"; };
 		1B221FA829BF7CA800B7F51C /* HandleResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandleResponse.swift; sourceTree = "<group>"; };
 		1B221FAB29BF841100B7F51C /* NetworkLogger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkLogger.swift; sourceTree = "<group>"; };
+		1B221FE429BF920000B7F51C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 		1B221F5929BD501800B7F51C = {
 			isa = PBXGroup;
 			children = (
+				1B221FE429BF920000B7F51C /* README.md */,
 				1B221F6429BD501800B7F51C /* conection-generic */,
 				1B221F6329BD501800B7F51C /* Products */,
 			);
